@@ -1,0 +1,8 @@
+{
+  "name": "IPGuard AI - Nhận Diện Vi Phạm Bản Quyền & Sở Hữu Trí Tuệ",
+  "description": "Hệ thống AI nhận diện, phân tích và thẩm định nguy cơ vi phạm bản quyền, nhãn hiệu và quyền sở hữu trí tuệ theo chuẩn Luật SHTT Việt Nam và quốc tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
